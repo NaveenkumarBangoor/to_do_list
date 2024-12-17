@@ -1,0 +1,10 @@
+.shortDet{
+    background-color: rgb(148, 148, 187);
+    width: 300px;
+    height: 300px;
+    margin: 100px 540px;
+    padding: 30px 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px black;
+}

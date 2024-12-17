@@ -1,0 +1,68 @@
+.videos img{
+    width:360px;
+    height: 202px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.videoData{
+    display: flex;
+    flex-wrap: wrap;
+}
+.video{
+    width:25%;
+    margin: 14px 0px;
+}
+.videoDetailes {
+    margin: 5px 0px;
+    padding: 0px;
+}
+.video h3{
+    margin-top: 5px;
+    margin-bottom: 2px;
+}
+.video p , .video h4{
+    color: #606060;
+    margin: 0px;
+    display: inline-block;
+    cursor: pointer;
+}
+.video h4:hover{
+    text-decoration: underline;
+    color: black;
+    margin: 0px 10px;
+}
+
+.videoData{
+    margin: 8px 0px;
+}
+.shortsData{
+display: flex;
+flex-wrap: wrap;
+margin: 8px 0px;
+}
+.short img
+{
+    width:220px;
+    height: 300px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.short{
+    width: 16%;
+    margin: 14px 0px;
+}
+.shortDetails{
+    margin: 20px 20px;
+    padding: 0px;
+}
+.short h3{
+    margin-top: 5px;
+    margin-bottom: 2px;
+}
+.short p{
+    margin-top: 5px;
+    margin-bottom: 2x;
+}
+.shortsData{
+    margin: 8px 30px;
+}

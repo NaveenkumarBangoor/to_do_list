@@ -1,0 +1,58 @@
+.todolist-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5pxpx;
+}
+
+.todo-list{
+   display: flex;
+
+ 
+}   
+#btn{
+    padding: 5px 10px;
+    margin-left: 10px;
+    color: red;
+    background-color: rgb(42, 80, 42);
+    cursor: pointer;
+    border-radius: 10px;
+    border-color: white;
+
+}
+#btn:hover{
+    background-color: rgb(36, 110, 36); 
+}
+
+.btn1{
+    padding: 5px 10px;
+    border-radius: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+    border-color: white;
+    margin-top: 15px;
+    
+
+}
+
+#btn2{
+    padding: 5px 25px;
+    margin-left: 10px;
+    color: red;
+    background-color: rgb(39, 46, 39);
+    cursor: pointer;
+    border-radius: 10px;
+    box-shadow: 10px black;
+    margin-top: 10px;
+
+
+}
+#btn2:hover{
+    background-color: rgb(155, 165, 155); 
+}
+input{
+    font-size: 1rem;
+    padding: 10px;
+    border: 2px solid grey;
+    border-radius: 5px;
+}
